@@ -75,7 +75,8 @@
     <script>
         function playVideo() {
             document.getElementById('videoContainer').style.display = 'flex';
-            document.getElementById('youtubeVideo').src = "https://www.youtube.com/embed/CXJJDxg7Mos?autoplay=1";
+            document.getElementById('youtubeVideo').src = "https://www.youtube.com/embed/CXJJDxg7Mos?autoplay=1&mute=1";
+
             document.getElementById('content').style.display = 'none';
         }
 
