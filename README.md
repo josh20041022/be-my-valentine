@@ -57,7 +57,7 @@
 
     <script>
         function yesClick() {
-            alert("Yay! Can't wait to celebrate with you! 💕");
+            alert("YAMHUU YAMHU YAMHUU kimsh! 💕");
         }
 
         function moveButton() {
